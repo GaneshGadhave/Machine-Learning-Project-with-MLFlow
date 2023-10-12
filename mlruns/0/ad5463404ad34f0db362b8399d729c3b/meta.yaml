@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA_Science_Project/Machine-Learning-Project-with-MLFlow/mlruns/0/ad5463404ad34f0db362b8399d729c3b/artifacts
+end_time: 1697136429206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad5463404ad34f0db362b8399d729c3b
+run_name: brawny-duck-995
+run_uuid: ad5463404ad34f0db362b8399d729c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697136421685
+status: 3
+tags: []
+user_id: GANESH

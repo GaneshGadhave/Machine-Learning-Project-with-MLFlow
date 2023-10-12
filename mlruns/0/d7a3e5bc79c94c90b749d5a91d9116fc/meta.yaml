@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA_Science_Project/Machine-Learning-Project-with-MLFlow/mlruns/0/d7a3e5bc79c94c90b749d5a91d9116fc/artifacts
+end_time: 1697135535828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7a3e5bc79c94c90b749d5a91d9116fc
+run_name: redolent-finch-356
+run_uuid: d7a3e5bc79c94c90b749d5a91d9116fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697135527260
+status: 3
+tags: []
+user_id: GANESH

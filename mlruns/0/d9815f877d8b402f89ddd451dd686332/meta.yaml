@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA_Science_Project/Machine-Learning-Project-with-MLFlow/mlruns/0/d9815f877d8b402f89ddd451dd686332/artifacts
+end_time: 1697137173752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9815f877d8b402f89ddd451dd686332
+run_name: orderly-mouse-175
+run_uuid: d9815f877d8b402f89ddd451dd686332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697137162516
+status: 3
+tags: []
+user_id: GANESH

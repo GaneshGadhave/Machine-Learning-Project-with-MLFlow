@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA_Science_Project/Machine-Learning-Project-with-MLFlow/mlruns/0/3c95ef3fe60c447b8965bf4685fcc65e/artifacts
+end_time: 1697135895867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c95ef3fe60c447b8965bf4685fcc65e
+run_name: salty-roo-135
+run_uuid: 3c95ef3fe60c447b8965bf4685fcc65e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697135887601
+status: 3
+tags: []
+user_id: GANESH
